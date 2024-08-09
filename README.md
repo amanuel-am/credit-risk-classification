@@ -2,7 +2,10 @@
 module 20 challenge
 
 # overview
-- use dataset of Historical lending activity from peer-to-peer lending services company and build a machine learning model to identify the creditworthiness of borrowers
+- use dataset of Historical lending activity from peer-to-peer lending services company and build a machine learning model to identify the creditworthiness of borrowers.
+- data is split in 75% of the data going into the training set and 25% into the test set.
+- Data trained with logistic regression model.
+- Evaluation done with confusion matrix and model accuracy.
 
 # result
 - **Class 0 (Healthy Loan)**
